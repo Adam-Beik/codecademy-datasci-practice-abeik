@@ -44,7 +44,7 @@ try:
     adam_insurance_cost = estimate_insurance_cost("Adam", "forced_error", 1, 26.6, 0, 0)
 
 except:
-    print("Uh oh, provided value(s) caused an error.")
+    print("Uh oh, provided value(s) caused an error.") 
 
 
 
